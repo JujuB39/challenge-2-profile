@@ -24,3 +24,5 @@ I learned a lot about styling a webpage and how to focus on layouts. One of the 
 
 ## Screenshot of Site and Links
 ![alt text](./Images/screenshot.png "Screenshot")
+ https://jujub39.github.io/challenge-2-profile/
+ 
