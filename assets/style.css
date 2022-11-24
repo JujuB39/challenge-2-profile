@@ -1,0 +1,51 @@
+
+div {
+    background-color:teal;
+    }
+    
+body {
+    background-color: black;
+     }
+
+#Profile-Photo {
+    max-height: 300px;
+    max-width: 200px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+    
+}
+.header {
+    background-color:teal;
+    display: inline-flex;
+    font-size: 28px;
+    color: white;
+}
+
+.header div {
+    padding-top: 15px;
+    margin-right: 20px;
+    float: center;
+    font-size: 15px;
+
+}
+
+.heading {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 10%;
+    color: rgb(255, 230, 4);
+}
+
+.float-left {
+    display: inline-block;
+    margin-right: 30px;
+    max-height: 200px;
+}
+
+.description {
+    color: white;
+}
+
